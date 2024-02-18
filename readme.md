@@ -17,7 +17,7 @@ The program requires the following free softwares.
 
 - git clone https://github.com/horychen/MinimumOrderSensorless.git (**[MinimumOrderSensorless](https://github.com/horychen/MinimumOrderSensorless)**)
 
-- Open `cmd.exe` in this directory, and
+- Open `cmd.exe` in the directory where the codes locate, and execute commands:
     - `cd acmsimcv5/c`
     - `gmake.exe`
     - `main.exe`
@@ -25,4 +25,5 @@ The program requires the following free softwares.
     - `cd ..`
     - `conda activate your-vitual-env` (optinal)
     - `python ACMPlot2024.py`
-    also see `readme.png` for details.
+
+![readmeVisualized](https://github.com/horychen/MinimumOrderSensorless/blob/main/readme.png?raw=true)
