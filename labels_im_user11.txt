@@ -1,0 +1,18 @@
+Load Torque [Nm]
+Speed [rpm]
+Offset [V]
+Flux Alpha Error [Wb]
+Flux Alpha [Wb]
+Flux Ctrl Error [Wb]
+Speed Ctrl Error [rpm]
+Syn. Speed [rad/s]
+Sat.MAX [s]
+Sat.MIN [s]
+Gain Offset
+Sat. Time Offset
+Sat. Time Diff.
+Sat. Time 
+id
+iq
+ud, uq
+ia, ib

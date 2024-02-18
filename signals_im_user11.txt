@@ -1,0 +1,18 @@
+ACM.TLoad, marino.xTL
+marino.xOmg*ELEC_RAD_PER_SEC_2_RPM, ACM.rpm, ACM.rpm_cmd
+watch.offset[0], watch.offset_compensation[0]
+ACM.psi_Amu - watch.psi_2[0]
+ACM.psi_Amu, watch.psi_2[0], FE.htz.psi_aster_max, -FE.htz.psi_aster_max
+marino.e_psi_Dmu, marino.e_psi_Qmu
+ACM.rpm - marino.xOmg*ELEC_RAD_PER_SEC_2_RPM
+CTRL.S->omega_syn, FE.htz.field_speed_est
+FE.htz.sat_max_time[0], FE.htz.sat_max_time[1]
+FE.htz.sat_min_time[0], FE.htz.sat_min_time[1]
+FE.htz.gain_off
+FE.htz.sat_time_offset[0], FE.htz.sat_time_offset[1]
+FE.htz.maximum_of_sat_max_time[0] - FE.htz.maximum_of_sat_min_time[0]
+FE.htz.maximum_of_sat_max_time[0], FE.htz.maximum_of_sat_min_time[0]
+CTRL.I->idq_cmd[0], ACM.iMs
+CTRL.I->idq_cmd[1], ACM.iTs
+CTRL.O->udq_cmd[0], CTRL.O->udq_cmd[1]
+IS_C(0), IS_C(1)
