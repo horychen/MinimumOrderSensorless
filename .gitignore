@@ -1,4 +1,5 @@
 *.dat
 *.pyc
 *.zip
-
+/acmsimcv5/c/main
+/.vscode
