@@ -2,7 +2,7 @@
 
 ## Dependency Installation
 
-The program requires the following free softwares.
+The program requires the following free softwares (tested in Windows 10).
 
 - `gcc.exe` (comes with [Minimalist GNU for Windows](https://sourceforge.net/projects/mingw/)---See this [awesome page](https://www3.ntu.edu.sg/home/ehchua/programming/howto/Cygwin_HowTo.html) for info)
 
