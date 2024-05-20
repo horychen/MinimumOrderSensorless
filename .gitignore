@@ -2,4 +2,5 @@
 *.pyc
 *.zip
 /acmsimcv5/c/main
+/acmsimcv5/c/main.exe
 /.vscode
